@@ -5,11 +5,11 @@ export default function Home() {
         <div className="flex justify-center bg-blue-500 rounded-8 w-[288px] h-[288px]">
 
         </div>
-        <div className="flex flex-col items-center mt-6">
-          <h1 className="font-bold color-slate-700 text-[22px] text-center">
+        <div className="flex flex-col items-center m-4">
+          <h1 className="heading">
             Improve your front-end skills by building projects
           </h1>
-          <p className="text-info m-4">
+          <p className="text-info">
             Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
           </p>
         </div>

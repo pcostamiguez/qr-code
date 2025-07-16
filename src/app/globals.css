@@ -21,9 +21,18 @@ body {
   height: 100vh;
 }
 
+.heading {
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: bold;
+  color: var(--color-slate-700);
+  text-align: center;
+}
+
 .text-info {
   color: var(--color-slate-500);
   text-align: center;
+  margin-top: 16px;
 }
 
 .container {
