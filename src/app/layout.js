@@ -11,6 +11,9 @@ export const metadata = {
   description: "Created by Pedro Henrique for Frontend Mentor",
   author: "Pedro Henrique Costa Miguez - github.com/pcostamiguez",
   keywords: "Frontend Mentor, QR Code, Challenge, Pedro Henrique Costa Miguez",
+  icons: {
+    icon: "/favicon-32x32.png",
+  }
 };
 
 export default function RootLayout({ children }) {
